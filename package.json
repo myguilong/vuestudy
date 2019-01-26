@@ -1,0 +1,49 @@
+{
+<<<<<<< HEAD
+  "name": "mystudy",
+=======
+  "name": "onewaimai",
+>>>>>>> init
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "better-scroll": "^1.13.4",
+    "element-ui": "^2.4.5",
+    "mockjs": "^1.0.1-beta3",
+    "swiper": "^4.4.6",
+    "vue": "^2.5.21",
+    "vue-lazyload": "^1.2.6",
+    "vue-resource": "^1.5.1",
+=======
+    "vue": "^2.5.21",
+>>>>>>> init
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.2.0",
+    "@vue/cli-plugin-eslint": "^3.2.0",
+    "@vue/cli-service": "^3.2.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0",
+<<<<<<< HEAD
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-cli-plugin-element": "^1.0.0",
+    "vue-cli-plugin-element-ui": "^1.1.4",
+=======
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+>>>>>>> init
+    "vue-template-compiler": "^2.5.21"
+  }
+}
